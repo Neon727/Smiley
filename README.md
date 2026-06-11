@@ -1,4 +1,4 @@
-# 👁️ Smiley: The Desktop Companion
+# Smiley: The Desktop Companion
 
 **Important Note:** *First things first—while this technically is a desktop companion, I wouldn't recommend using it. Smiley is a polite yet sinister entity. Whatever you do, do not leave him running for 4 days. If you do, something bad will happen.*
 
